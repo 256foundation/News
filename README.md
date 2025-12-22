@@ -14,6 +14,8 @@ Stay up to date with the latest freedom tech news, free & open Bitcoin mining de
   
 <h1 align="center">DOWNLOAD</h1>
 
+<p align="center"><a href="/256Foundation-Newsletter-2512_v1.pdf" target="_blank" rel="noopener noreferrer"><font color="orange">December 2025 - Assembling Freedom #12</font></a></p>
+
 <p align="center"><a href="/256Foundation-Newsletter-2511_v1.pdf" target="_blank" rel="noopener noreferrer"><font color="orange">November 2025 - Assembling Freedom #11</font></a></p>
 
 <p align="center"><a href="/256Foundation-Newsletter-2510_v1.pdf" target="_blank" rel="noopener noreferrer"><font color="orange">October 2025 - Assembling Freedom #10</font></a></p>
