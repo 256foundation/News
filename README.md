@@ -6,15 +6,11 @@
 <p align="center">
 Stay up to date with the latest freedom tech news, free & open Bitcoin mining developments, and grant project updates. Newsletters are published weekly. Below, you can download .pdf versions of the newsletter or you can subscribe and have newsletters delivered straight to your inbox.</p>
 
-<p align="center">
-      <a href="https://proto.xyz/" target="_blank" rel="noopener noreferrer"><img width="500" src="/proto-support-ko.jpg"></a>
-    </p>
-
 <br>
   
 <h1 align="center">DOWNLOAD</h1>
 
-<p align="center"><a href="/256Foundation-Newsletter-260130_v1.pdf" target="_blank" rel="noopener noreferrer"><font color="orange">January 30, 2026 - Assembling Freedom #14</font></a></p>
+<p align="center"><a href="/256Foundation-Newsletter-260128_v1.pdf" target="_blank" rel="noopener noreferrer"><font color="orange">January 30, 2026 - Assembling Freedom #14</font></a></p>
 
 <p align="center"><a href="/256Foundation-Newsletter-260114_v1.pdf" target="_blank" rel="noopener noreferrer"><font color="orange">January 14, 2026 - Assembling Freedom #13</font></a></p>
 
