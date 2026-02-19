@@ -10,6 +10,8 @@ Stay up to date with the latest freedom tech news, free & open Bitcoin mining de
   
 <h1 align="center">DOWNLOAD</h1>
 
+<p align="center"><a href="/260218-assembling-freedom-17.pdf" target="_blank" rel="noopener noreferrer"><font color="orange">February 18, 2026 - Assembling Freedom #17</font></a></p>
+
 <p align="center"><a href="/260211-assembling-freedom-16.pdf" target="_blank" rel="noopener noreferrer"><font color="orange">February 11, 2026 - Assembling Freedom #16</font></a></p>
 
 <p align="center"><a href="/260204-assembling-freedom-15.pdf" target="_blank" rel="noopener noreferrer"><font color="orange">February 4, 2026 - Assembling Freedom #15</font></a></p>
