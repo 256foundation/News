@@ -4,11 +4,13 @@
 </p>
 
 <p align="center">
-Stay up to date with the latest freedom tech news, free & open Bitcoin mining developments, and grant project updates. Newsletters are published weekly. Below, you can download .pdf versions of the newsletter or you can subscribe and have newsletters delivered straight to your inbox. All of our newsletters are published under the Creative Commons license.</p>
+Stay up to date with the latest freedom tech news, free & open Bitcoin mining developments, and grant project updates. Newsletters are published weekly. Below, you can download .pdf versions of the newsletter or you can subscribe and have newsletters delivered straight to your inbox. All of our newsletters are published under the CC0 1.0 license.</p>
 
 <br>
   
 <h1 align="center">DOWNLOAD</h1>
+
+<p align="center"><a href="/260325-assembling-freedom-21.pdf" target="_blank" rel="noopener noreferrer"><font color="orange">March 25, 2026 - Assembling Freedom #21</font></a></p>
 
 <p align="center"><a href="/260318-assembling-freedom-20.pdf" target="_blank" rel="noopener noreferrer"><font color="orange">March 18, 2026 - Assembling Freedom #20</font></a></p>
 
